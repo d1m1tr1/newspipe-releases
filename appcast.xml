@@ -6,6 +6,24 @@
     <description>NewsPipe macOS releases</description>
     <language>en</language>
     <item>
+      <title>Version 1.0.4</title>
+      <pubDate>Mon, 27 Apr 2026 19:35:00 +0000</pubDate>
+      <sparkle:version>5</sparkle:version>
+      <sparkle:shortVersionString>1.0.4</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>SEO page polish.</p>
+<ul>
+<li><b>Peak Hours heatmap</b> — 7×24 grid (days × hours) replacing the old text list. Cell intensity scales with pageview count; tap a cell to see exact weekday / hour / views below.</li>
+<li><b>90-Day Trend tap-to-inspect</b> — tap or drag along the chart to read the date and value at that point. The most recent point is selected by default.</li>
+</ul>
+<p>This release also exercises the Sparkle auto-update flow over v1.0.3.</p>]]></description>
+      <enclosure
+        url="https://github.com/d1m1tr1/newspipe-releases/releases/download/v1.0.4/NewsPipe-1.0.4.zip"
+        length="6285919"
+        type="application/octet-stream"
+        sparkle:edSignature="EJHewVkjqygRVLChrycvwX8R9CAMt+NoZLXVmRm4DNt13I31jfHNS3buB1/VjczI6bpAMtL/1vglR6a14WngCw==" />
+    </item>
+    <item>
       <title>Version 1.0.3</title>
       <pubDate>Mon, 27 Apr 2026 19:24:25 +0000</pubDate>
       <sparkle:version>4</sparkle:version>
