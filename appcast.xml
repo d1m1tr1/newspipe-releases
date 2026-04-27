@@ -5,10 +5,27 @@
     <link>https://github.com/d1m1tr1/newspipe-releases</link>
     <description>NewsPipe macOS releases</description>
     <language>en</language>
-    <!--
-      Each release adds an <item> below. Use ../newspipe-app/scripts/release-mac.sh
-      in the source repo to build, sign, and produce a paste-ready snippet.
-      Newest release first (Sparkle picks the first matching item).
-    -->
+    <item>
+      <title>Version 1.0.1</title>
+      <pubDate>Mon, 27 Apr 2026 19:04:36 +0000</pubDate>
+      <sparkle:version>2</sparkle:version>
+      <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>First Sparkle-powered release. Establishes the auto-update channel.</p>
+<p>Highlights since v1.0:</p>
+<ul>
+<li>Native macOS app — NavigationSplitView sidebar, menu bar Commands, multi-window article reading.</li>
+<li>Notification taps deep-link into the matching article.</li>
+<li>Right-click context menus and Cmd-F search on Articles.</li>
+<li>Editor: in-web Sparkle-style toolbar hidden; custom SwiftUI toolbar only.</li>
+<li>Article body scrolls smoothly on macOS (two-finger trackpad).</li>
+<li>Sparkle auto-update — this release establishes the channel.</li>
+</ul>]]></description>
+      <enclosure
+        url="https://github.com/d1m1tr1/newspipe-releases/releases/download/v1.0.1/NewsPipe-1.0.1.zip"
+        length="6210018"
+        type="application/octet-stream"
+        sparkle:edSignature="9QcgEXs6bwlWH5Iwhie6JRqfQRqbkUgvH4rq7nqldmxx0B5QIuvhR5x4fPdxNUaXkQllcBf7ZMCzF80xANhqAA==" />
+    </item>
   </channel>
 </rss>
