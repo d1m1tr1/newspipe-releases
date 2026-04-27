@@ -6,41 +6,23 @@
     <description>NewsPipe macOS releases</description>
     <language>en</language>
     <item>
-      <title>Version 1.0.2</title>
-      <pubDate>Mon, 27 Apr 2026 19:15:39 +0000</pubDate>
-      <sparkle:version>3</sparkle:version>
-      <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
+      <title>Version 1.0.3</title>
+      <pubDate>Mon, 27 Apr 2026 19:24:25 +0000</pubDate>
+      <sparkle:version>4</sparkle:version>
+      <sparkle:shortVersionString>1.0.3</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<p>Ad-hoc signed build. Replaces v1.0.1 (which was Apple-Development signed and tripped macOS Gatekeeper's strict path).</p>
-<p>From v1.0.2 onward Sparkle auto-updates apply transparently — payload trust is via the EdDSA signature, not the cert chain.</p>
-<p>First-time install on a new Mac still requires right-click → Open or <code>xattr -dr com.apple.quarantine</code>.</p>]]></description>
-      <enclosure
-        url="https://github.com/d1m1tr1/newspipe-releases/releases/download/v1.0.2/NewsPipe-1.0.2.zip"
-        length="6209111"
-        type="application/octet-stream"
-        sparkle:edSignature="J0p9cST/hZV/cqRwTw4SBxRnIqO4W1jrN0uW8vxNLf6zKiuxNEXC6rmsH7uQ6EzmxfPeoZGq/ZVsDxxRlDl2CA==" />
-    </item>
-    <item>
-      <title>Version 1.0.1</title>
-      <pubDate>Mon, 27 Apr 2026 19:04:36 +0000</pubDate>
-      <sparkle:version>2</sparkle:version>
-      <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<p>First Sparkle-powered release. Establishes the auto-update channel.</p>
-<p>Highlights since v1.0:</p>
+      <description><![CDATA[<p>First actually-launchable build of the macOS app.</p>
 <ul>
-<li>Native macOS app — NavigationSplitView sidebar, menu bar Commands, multi-window article reading.</li>
-<li>Notification taps deep-link into the matching article.</li>
-<li>Right-click context menus and Cmd-F search on Articles.</li>
-<li>Editor: in-web Sparkle-style toolbar hidden; custom SwiftUI toolbar only.</li>
-<li>Article body scrolls smoothly on macOS (two-finger trackpad).</li>
-<li>Sparkle auto-update — this release establishes the channel.</li>
-</ul>]]></description>
+<li>Fixed dyld rpath so Sparkle.framework resolves on macOS (the iOS-only <code>@executable_path/Frameworks</code> rpath couldn't find frameworks at the macOS bundle layout's <code>Contents/Frameworks/</code>).</li>
+<li>Dropped hardened runtime from ad-hoc resign — incompatible with ad-hoc framework loading.</li>
+<li>Sparkle auto-update channel established with this release.</li>
+</ul>
+<p>v1.0.1 and v1.0.2 remain in GitHub release history but are no longer offered through this appcast.</p>]]></description>
       <enclosure
-        url="https://github.com/d1m1tr1/newspipe-releases/releases/download/v1.0.1/NewsPipe-1.0.1.zip"
-        length="6210018"
+        url="https://github.com/d1m1tr1/newspipe-releases/releases/download/v1.0.3/NewsPipe-1.0.3.zip"
+        length="6209046"
         type="application/octet-stream"
-        sparkle:edSignature="9QcgEXs6bwlWH5Iwhie6JRqfQRqbkUgvH4rq7nqldmxx0B5QIuvhR5x4fPdxNUaXkQllcBf7ZMCzF80xANhqAA==" />
+        sparkle:edSignature="dimP9h4oZ7QdXLJsOVyBFAtyB7aIyF0wJYPVV/0Tkz++xXtxHGjtTYtSap8FTtJqi45OIHaunP0mdmLRgLH0BA==" />
     </item>
   </channel>
 </rss>
