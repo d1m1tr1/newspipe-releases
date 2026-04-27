@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>NewsPipe</title>
+    <link>https://github.com/d1m1tr1/newspipe-releases</link>
+    <description>NewsPipe macOS releases</description>
+    <language>en</language>
+    <!--
+      Each release adds an <item> below. Use ../newspipe-app/scripts/release-mac.sh
+      in the source repo to build, sign, and produce a paste-ready snippet.
+      Newest release first (Sparkle picks the first matching item).
+    -->
+  </channel>
+</rss>
