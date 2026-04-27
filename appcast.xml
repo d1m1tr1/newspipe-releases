@@ -6,6 +6,21 @@
     <description>NewsPipe macOS releases</description>
     <language>en</language>
     <item>
+      <title>Version 1.0.2</title>
+      <pubDate>Mon, 27 Apr 2026 19:15:39 +0000</pubDate>
+      <sparkle:version>3</sparkle:version>
+      <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Ad-hoc signed build. Replaces v1.0.1 (which was Apple-Development signed and tripped macOS Gatekeeper's strict path).</p>
+<p>From v1.0.2 onward Sparkle auto-updates apply transparently — payload trust is via the EdDSA signature, not the cert chain.</p>
+<p>First-time install on a new Mac still requires right-click → Open or <code>xattr -dr com.apple.quarantine</code>.</p>]]></description>
+      <enclosure
+        url="https://github.com/d1m1tr1/newspipe-releases/releases/download/v1.0.2/NewsPipe-1.0.2.zip"
+        length="6209111"
+        type="application/octet-stream"
+        sparkle:edSignature="J0p9cST/hZV/cqRwTw4SBxRnIqO4W1jrN0uW8vxNLf6zKiuxNEXC6rmsH7uQ6EzmxfPeoZGq/ZVsDxxRlDl2CA==" />
+    </item>
+    <item>
       <title>Version 1.0.1</title>
       <pubDate>Mon, 27 Apr 2026 19:04:36 +0000</pubDate>
       <sparkle:version>2</sparkle:version>
