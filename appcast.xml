@@ -7,6 +7,20 @@
     <language>en</language>
 
     <item>
+      <title>Version 1.0.6</title>
+      <pubDate>Thu, 07 May 2026 16:07:27 +0000</pubDate>
+      <sparkle:version>7</sparkle:version>
+      <sparkle:shortVersionString>1.0.6</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Brings the iOS/macOS app in line with the M1+M2 backend validation work. Articles list now shows a Review/Refused triage badge driven by the explorer's needs_manual_review and the writer's verification_status. The article reading page gains an Explorer Validation panel (source / confidence / freshness / urgency, key-facts checklist, primary-source link, verification notes) plus a Writer Refusal banner that surfaces the editorial note when the writer declined to generate a body. Also fixes a Sparkle bug: previous releases emitted the marketing version into <p>Update notes here.</p>lt;sparkle:version<p>Update notes here.</p>gt; instead of the build number, so v1.0.5 read as older than v1.0.4 and the auto-update prompt never fired.</p>]]></description>
+      <enclosure
+        url="https://github.com/d1m1tr1/newspipe-releases/releases/download/v1.0.6/NewsPipe-1.0.6.zip"
+        length="6444035"
+        type="application/octet-stream"
+        sparkle:edSignature="aPQGUtjhkaGizlAmk9Ms65+QDCTvOo7usVYHCFJlIb1J4GYdaYNR4aD5KCHXKMQimaDy1rVuJTzqcC4OkIAnBw==" />
+    </item>
+
+    <item>
       <title>Version 1.0.5</title>
       <pubDate>Thu, 07 May 2026 15:25:36 +0000</pubDate>
       <sparkle:version>6</sparkle:version>
