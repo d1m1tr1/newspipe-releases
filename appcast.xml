@@ -9,7 +9,7 @@
     <item>
       <title>Version 1.0.5</title>
       <pubDate>Thu, 07 May 2026 15:25:36 +0000</pubDate>
-      <sparkle:version>1.0.5</sparkle:version>
+      <sparkle:version>6</sparkle:version>
       <sparkle:shortVersionString>1.0.5</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<p>Maintenance release. Internal release tooling moved to a single `make release` command — no user-facing changes.</p>]]></description>
