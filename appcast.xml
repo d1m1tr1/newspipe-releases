@@ -7,6 +7,20 @@
     <language>en</language>
 
     <item>
+      <title>Version 1.0.7</title>
+      <pubDate>Fri, 08 May 2026 15:59:04 +0000</pubDate>
+      <sparkle:version>8</sparkle:version>
+      <sparkle:shortVersionString>1.0.7</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Default server URL is now https://pipe.d1ops.net (the new NewsPipe domain). Existing installs that still pointed at the old IP migrate silently on first launch — anyone running a custom server keeps theirs untouched.</p>]]></description>
+      <enclosure
+        url="https://github.com/d1m1tr1/newspipe-releases/releases/download/v1.0.7/NewsPipe-1.0.7.zip"
+        length="6444205"
+        type="application/octet-stream"
+        sparkle:edSignature="cg+w3LSQOc8L5TxhPM7gv9nhaj68aTj9IEI7jlG6zt0I3Hz2x7PF/XQdgKG6OvLoG4rAmtOIM7dX8UWimLaLDw==" />
+    </item>
+
+    <item>
       <title>Version 1.0.6</title>
       <pubDate>Thu, 07 May 2026 16:07:27 +0000</pubDate>
       <sparkle:version>7</sparkle:version>
