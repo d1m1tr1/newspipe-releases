@@ -7,6 +7,20 @@
     <language>en</language>
 
     <item>
+      <title>Version 1.0.9</title>
+      <pubDate>Sun, 10 May 2026 13:28:42 +0000</pubDate>
+      <sparkle:version>10</sparkle:version>
+      <sparkle:shortVersionString>1.0.9</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Follow-up to v1.0.8 mirroring this week's news-pipe UI tweaks. Pending tab now hides articles that need override review — they have their own dedicated tab. The Needs override tab itself was renamed from Explorer rejected for accuracy. Override panel UX simplified: no more collapse, the textarea + Force generation button are visible whenever the explorer or writer blocked the article, and the textarea pre-populates with any prior editorial_override_note so a re-approval can build on previous reasoning. The regular Approve button is hidden (rather than just disabled) when override is required, matching the web. Override approve now sends the new redactor_notes field alongside note so the writer prompt receives the editor's guidance on the forced rewrite.</p>]]></description>
+      <enclosure
+        url="https://github.com/d1m1tr1/newspipe-releases/releases/download/v1.0.9/NewsPipe-1.0.9.zip"
+        length="6506557"
+        type="application/octet-stream"
+        sparkle:edSignature="wFIfpfnK8dxmwNX95kMezzuSBd6fyEI5GoDkJjIWVJGfpQDNsD3ixaPSazr0mhKGzlFiW8PVm+CzYHxkrhv+CQ==" />
+    </item>
+
+    <item>
       <title>Version 1.0.8</title>
       <pubDate>Sun, 10 May 2026 12:59:36 +0000</pubDate>
       <sparkle:version>9</sparkle:version>
