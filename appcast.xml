@@ -7,6 +7,20 @@
     <language>en</language>
 
     <item>
+      <title>Version 1.0.8</title>
+      <pubDate>Sun, 10 May 2026 12:59:36 +0000</pubDate>
+      <sparkle:version>9</sparkle:version>
+      <sparkle:shortVersionString>1.0.8</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Brings the app in line with two news-pipe UI features shipped this week. Articles list gains an Explorer rejected filter chip (alongside Pending / Approved / Published / Denied) — uses the new approved_rejected server filter to show pending_review articles the explorer flagged as not-publishable or needing manual review. The article reading page gains an editorial generation override flow: when the explorer or writer flagged an article, the normal Approve button is disabled and a warn-tinted override panel appears with a textarea for the editor's note. Tapping Approve for generation calls the new approve endpoint with override_generation=true so the note lands in the audit log alongside the approve event.</p>]]></description>
+      <enclosure
+        url="https://github.com/d1m1tr1/newspipe-releases/releases/download/v1.0.8/NewsPipe-1.0.8.zip"
+        length="6506618"
+        type="application/octet-stream"
+        sparkle:edSignature="K7sy5T9T2/5poUb+wCKiUbSWBCyjpvKId1ZO3ElKHwDPCKPEA7wRVOxSEQ6u7NC7ohribzx2fBknI7F5VDinCw==" />
+    </item>
+
+    <item>
       <title>Version 1.0.7</title>
       <pubDate>Fri, 08 May 2026 15:59:04 +0000</pubDate>
       <sparkle:version>8</sparkle:version>
