@@ -7,6 +7,20 @@
     <language>en</language>
 
     <item>
+      <title>Version 1.0.10</title>
+      <pubDate>Sun, 10 May 2026 13:38:10 +0000</pubDate>
+      <sparkle:version>11</sparkle:version>
+      <sparkle:shortVersionString>1.0.10</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Adds the missing count badge on the Needs override filter chip. The count loader was iterating only the four original statuses and skipping the new approved_rejected one.</p>]]></description>
+      <enclosure
+        url="https://github.com/d1m1tr1/newspipe-releases/releases/download/v1.0.10/NewsPipe-1.0.10.zip"
+        length="6506621"
+        type="application/octet-stream"
+        sparkle:edSignature="PNWNZDrQwbQa9BlBKP5E006G7fFANQuoaonRO82mMqzfpKan3RYlQQBV1TGtrUhxshWdaEg57NxLTXS13QL+Dg==" />
+    </item>
+
+    <item>
       <title>Version 1.0.9</title>
       <pubDate>Sun, 10 May 2026 13:28:42 +0000</pubDate>
       <sparkle:version>10</sparkle:version>
