@@ -7,6 +7,20 @@
     <language>en</language>
 
     <item>
+      <title>Version 1.0.11</title>
+      <pubDate>Thu, 14 May 2026 13:30:26 +0000</pubDate>
+      <sparkle:version>12</sparkle:version>
+      <sparkle:shortVersionString>1.0.11</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Stops the repeated keychain password prompts on macOS. Server URL moves to UserDefaults (no security value in keychain, and the legacy-keychain ACL was getting invalidated by every ad-hoc rebuild). Token + credentials switch to the data-protection keychain (kSecUseDataProtectionKeychain=true), which is bundle-ID-based rather than code-signature-based, so future ad-hoc rebuilds no longer trigger access prompts. One-time cost: this update will ask you to log in again, because credentials saved by v1.0.10 lived in the legacy keychain and don't migrate over. After re-login, you'll never see the prompt again.</p>]]></description>
+      <enclosure
+        url="https://github.com/d1m1tr1/newspipe-releases/releases/download/v1.0.11/NewsPipe-1.0.11.zip"
+        length="6500226"
+        type="application/octet-stream"
+        sparkle:edSignature="uePd70Q+4Fqo+aapylvjcfB/QH+5AGV4L/BkWromOk5eRT2h/I+XObwyBgGWLRGBhHYRt9CIHJnZ1XlujAg4Dw==" />
+    </item>
+
+    <item>
       <title>Version 1.0.10</title>
       <pubDate>Sun, 10 May 2026 13:38:10 +0000</pubDate>
       <sparkle:version>11</sparkle:version>
