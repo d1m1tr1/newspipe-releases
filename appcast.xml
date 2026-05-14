@@ -7,6 +7,20 @@
     <language>en</language>
 
     <item>
+      <title>Version 1.0.12</title>
+      <pubDate>Thu, 14 May 2026 14:16:56 +0000</pubDate>
+      <sparkle:version>13</sparkle:version>
+      <sparkle:shortVersionString>1.0.12</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Fixes auth on v1.0.11. The data-protection keychain (kSecUseDataProtectionKeychain=true) silently rejects SecItemAdd on ad-hoc-signed Mac bundles without a keychain-access-groups entitlement — so the login token never persisted and the login screen kept reappearing after correct credentials. Auth storage moves to UserDefaults: no keychain prompts, no missing-entitlement failures. For this app's threat model (small-team internal tool, HTTPS cookie auth, no secrets-at-rest requirement) the trade is correct. One re-login after the update and credentials persist normally.</p>]]></description>
+      <enclosure
+        url="https://github.com/d1m1tr1/newspipe-releases/releases/download/v1.0.12/NewsPipe-1.0.12.zip"
+        length="6492360"
+        type="application/octet-stream"
+        sparkle:edSignature="8ci/zvmNG00dj7pmP2voaKiA74zBk/PMomXeY3c7+GVIR9tEWHe9hVec+vwrTNAoJxiC1h/7Aw/pSXKYgtJhBQ==" />
+    </item>
+
+    <item>
       <title>Version 1.0.11</title>
       <pubDate>Thu, 14 May 2026 13:30:26 +0000</pubDate>
       <sparkle:version>12</sparkle:version>
