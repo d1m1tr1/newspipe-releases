@@ -7,6 +7,20 @@
     <language>en</language>
 
     <item>
+      <title>Version 1.0.14</title>
+      <pubDate>Thu, 21 May 2026 11:18:29 +0000</pubDate>
+      <sparkle:version>15</sparkle:version>
+      <sparkle:shortVersionString>1.0.14</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Research now tracks the topic→article handoff: pending topics show a 'Queued #N' badge that opens the linked pipeline article, orphaned written-without-article rows surface a 'Missing article' warning, and a new filter chip bar mirrors the web (All / Ready / Queued / Needs article / Crawled / Dismissed).</p>]]></description>
+      <enclosure
+        url="https://github.com/d1m1tr1/newspipe-releases/releases/download/v1.0.14/NewsPipe-1.0.14.zip"
+        length="6606981"
+        type="application/octet-stream"
+        sparkle:edSignature="YbJgUfJ96Z7O36mOwNhzu5nSFyehPTN3bU6rSPqBUmkIHy0fYfdqBB59+K+C/umXiaJD6iCRISHjmIeN41WrDw==" />
+    </item>
+
+    <item>
       <title>Version 1.0.13</title>
       <pubDate>Wed, 20 May 2026 17:32:34 +0000</pubDate>
       <sparkle:version>14</sparkle:version>
