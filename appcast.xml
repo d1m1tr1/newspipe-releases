@@ -7,6 +7,20 @@
     <language>en</language>
 
     <item>
+      <title>Version 1.0.15</title>
+      <pubDate>Thu, 21 May 2026 11:25:45 +0000</pubDate>
+      <sparkle:version>16</sparkle:version>
+      <sparkle:shortVersionString>1.0.15</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Empty-state polish: 'No Research Topics', 'No system events', 'No digests yet', 'No Research Articles' placeholders now center properly in the viewport instead of pinning to the top-left corner. Same fix applied to the Body/Summary/Raw tabs on the Article reading page.</p>]]></description>
+      <enclosure
+        url="https://github.com/d1m1tr1/newspipe-releases/releases/download/v1.0.15/NewsPipe-1.0.15.zip"
+        length="6606843"
+        type="application/octet-stream"
+        sparkle:edSignature="YxoIAAonEMnxfErKq4E6pTgH8sh2LjdJL7TDNxbZhuzS+wNeVYr+cqAmK8b6JelIjWeYW+DLqii2ztq9PfWCCQ==" />
+    </item>
+
+    <item>
       <title>Version 1.0.14</title>
       <pubDate>Thu, 21 May 2026 11:18:29 +0000</pubDate>
       <sparkle:version>15</sparkle:version>
