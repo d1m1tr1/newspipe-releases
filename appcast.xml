@@ -7,6 +7,20 @@
     <language>en</language>
 
     <item>
+      <title>Version 1.1.0</title>
+      <pubDate>Sat, 27 Jun 2026 22:24:34 +0000</pubDate>
+      <sparkle:version>17</sparkle:version>
+      <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Major refresh: a redesigned editorial interface across every screen, plus a new Pipeline tab that tracks each article's journey end-to-end — a stage funnel, a live movement feed, and a per-item timeline. Also adds Ukrainian localization and dark-mode polish.</p>]]></description>
+      <enclosure
+        url="https://github.com/d1m1tr1/newspipe-releases/releases/download/v1.1.0/NewsPipe-1.1.0.zip"
+        length="7117043"
+        type="application/octet-stream"
+        sparkle:edSignature="QCkWX+POp6PKYkOjt/yKJrKrcoORyMhac823PpsgJzdw3TaiXQtrBVkGY5BwtLZRE0d8ZOxqbmk7953R5snrCQ==" />
+    </item>
+
+    <item>
       <title>Version 1.0.15</title>
       <pubDate>Thu, 21 May 2026 11:25:45 +0000</pubDate>
       <sparkle:version>16</sparkle:version>
