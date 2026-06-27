@@ -7,6 +7,20 @@
     <language>en</language>
 
     <item>
+      <title>Version 1.1.2</title>
+      <pubDate>Sat, 27 Jun 2026 23:06:32 +0000</pubDate>
+      <sparkle:version>19</sparkle:version>
+      <sparkle:shortVersionString>1.1.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Smoother Pipeline movement feed; review actions no longer nudge the timestamp.</p>]]></description>
+      <enclosure
+        url="https://github.com/d1m1tr1/newspipe-releases/releases/download/v1.1.2/NewsPipe-1.1.2.zip"
+        length="7126744"
+        type="application/octet-stream"
+        sparkle:edSignature="w0rqSpS3HirBJOnohZ0s+2hOeexxLPvnEQG6xrtHBfCGoD6xvB9fao17qCDxbTFheuHmWVssK0oKN8/58MTOCA==" />
+    </item>
+
+    <item>
       <title>Version 1.1.1</title>
       <pubDate>Sat, 27 Jun 2026 22:39:24 +0000</pubDate>
       <sparkle:version>18</sparkle:version>
