@@ -7,6 +7,20 @@
     <language>en</language>
 
     <item>
+      <title>Version 1.1.16</title>
+      <pubDate>Mon, 29 Jun 2026 19:19:43 +0000</pubDate>
+      <sparkle:version>33</sparkle:version>
+      <sparkle:shortVersionString>1.1.16</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Reliability pass: fixes a potential crash on the SEO peak-hours chart with partial data, makes Config toggles/menus respond instantly (no snap-back), keeps text selection while reading prompt diffs and digests, and trims a stray divider under the article feature image.</p>]]></description>
+      <enclosure
+        url="https://github.com/d1m1tr1/newspipe-releases/releases/download/v1.1.16/NewsPipe-1.1.16.zip"
+        length="7439898"
+        type="application/octet-stream"
+        sparkle:edSignature="zjZeD6Cmvt9KJmRgvPDoQ2BM0ksXrHoZZqPeNfzk+q2n7rg2U3hAZKEJaSUCIgPvX2OcEyQHI/+8x/qq0orqDg==" />
+    </item>
+
+    <item>
       <title>Version 1.1.15</title>
       <pubDate>Mon, 29 Jun 2026 19:03:47 +0000</pubDate>
       <sparkle:version>32</sparkle:version>
