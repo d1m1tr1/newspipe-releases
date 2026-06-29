@@ -7,6 +7,20 @@
     <language>en</language>
 
     <item>
+      <title>Version 1.1.11</title>
+      <pubDate>Mon, 29 Jun 2026 17:49:14 +0000</pubDate>
+      <sparkle:version>28</sparkle:version>
+      <sparkle:shortVersionString>1.1.11</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Config is now a proper settings form: edit text values inline (no more pop-up dialog), and pick models, intervals, and schedule hours from native menus right in the row instead of a separate screen. Cleaner and faster to adjust.</p>]]></description>
+      <enclosure
+        url="https://github.com/d1m1tr1/newspipe-releases/releases/download/v1.1.11/NewsPipe-1.1.11.zip"
+        length="7398805"
+        type="application/octet-stream"
+        sparkle:edSignature="m1eck9KRsIzwHNI9F+bug7pNlazB82TOfknERMs2cJWg+XwI2kp/6mBxCQ3olJuHAHd46NztCF4vk/QboBgEBA==" />
+    </item>
+
+    <item>
       <title>Version 1.1.10</title>
       <pubDate>Mon, 29 Jun 2026 17:38:29 +0000</pubDate>
       <sparkle:version>27</sparkle:version>
