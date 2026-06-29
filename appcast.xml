@@ -7,6 +7,20 @@
     <language>en</language>
 
     <item>
+      <title>Version 1.1.6</title>
+      <pubDate>Mon, 29 Jun 2026 16:30:59 +0000</pubDate>
+      <sparkle:version>23</sparkle:version>
+      <sparkle:shortVersionString>1.1.6</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Reworked the Pipeline movement log as a native macOS table (Stage, Item, Movement, When, By) — stays smooth under load and is far more legible. Double-click or right-click a row to open it.</p>]]></description>
+      <enclosure
+        url="https://github.com/d1m1tr1/newspipe-releases/releases/download/v1.1.6/NewsPipe-1.1.6.zip"
+        length="7147275"
+        type="application/octet-stream"
+        sparkle:edSignature="VWgAVm9IHvMtAX8o1fd+/pol4GxtizODuekLJN1aaQQAP3jMUGxcKjoPUqZgSUAJhOZ/SEBEAZaxhMnkUfwvDg==" />
+    </item>
+
+    <item>
       <title>Version 1.1.5</title>
       <pubDate>Mon, 29 Jun 2026 16:11:46 +0000</pubDate>
       <sparkle:version>22</sparkle:version>
