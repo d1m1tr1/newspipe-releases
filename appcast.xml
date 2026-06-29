@@ -7,6 +7,20 @@
     <language>en</language>
 
     <item>
+      <title>Version 1.1.17</title>
+      <pubDate>Mon, 29 Jun 2026 19:38:06 +0000</pubDate>
+      <sparkle:version>34</sparkle:version>
+      <sparkle:shortVersionString>1.1.17</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Pipeline movement log scrolls smoothly under live updates: the table no longer re-renders every row on each incoming event, and the stage badges no longer animate per row while scrolling.</p>]]></description>
+      <enclosure
+        url="https://github.com/d1m1tr1/newspipe-releases/releases/download/v1.1.17/NewsPipe-1.1.17.zip"
+        length="7441274"
+        type="application/octet-stream"
+        sparkle:edSignature="XA9ot7Pg/uulRCmkgg9JD4EKch3E8bO13VkoTGjBv3aehLHa3NJZUsJuHVJSqhEt0nXuyJbAriOKhpYco4NMDw==" />
+    </item>
+
+    <item>
       <title>Version 1.1.16</title>
       <pubDate>Mon, 29 Jun 2026 19:19:43 +0000</pubDate>
       <sparkle:version>33</sparkle:version>
