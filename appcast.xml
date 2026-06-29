@@ -7,6 +7,20 @@
     <language>en</language>
 
     <item>
+      <title>Version 1.1.8</title>
+      <pubDate>Mon, 29 Jun 2026 17:12:05 +0000</pubDate>
+      <sparkle:version>25</sparkle:version>
+      <sparkle:shortVersionString>1.1.8</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Source Performance is now a real sortable table on Mac — click any column header to sort, with at-a-glance funnel bars and a new approval-rate column to spot which sources are worth keeping. Sources list gets shimmer loading too.</p>]]></description>
+      <enclosure
+        url="https://github.com/d1m1tr1/newspipe-releases/releases/download/v1.1.8/NewsPipe-1.1.8.zip"
+        length="7245281"
+        type="application/octet-stream"
+        sparkle:edSignature="UHolucbhlpNB6/hsmFSQbQP4vdfKy2M/1CI4iEFGY9O13Skur7+KAgQYtmDfz+oZW5C7kQyu7RJm4xI9o/fNDg==" />
+    </item>
+
+    <item>
       <title>Version 1.1.7</title>
       <pubDate>Mon, 29 Jun 2026 17:03:22 +0000</pubDate>
       <sparkle:version>24</sparkle:version>
