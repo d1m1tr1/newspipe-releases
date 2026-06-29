@@ -7,6 +7,20 @@
     <language>en</language>
 
     <item>
+      <title>Version 1.1.7</title>
+      <pubDate>Mon, 29 Jun 2026 17:03:22 +0000</pubDate>
+      <sparkle:version>24</sparkle:version>
+      <sparkle:shortVersionString>1.1.7</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Smoother live activity feed (decoded off the main thread), shimmer skeletons while pages load, sortable SEO performance tables, and Articles upgrades: keyboard triage (↩ open · ⌘↩ approve · ⌘⌫ deny, arrow keys to navigate) plus a comfortable reading column in the article detail.</p>]]></description>
+      <enclosure
+        url="https://github.com/d1m1tr1/newspipe-releases/releases/download/v1.1.7/NewsPipe-1.1.7.zip"
+        length="7244570"
+        type="application/octet-stream"
+        sparkle:edSignature="emOFGBk5SrlR9edv27tauep1qkRw82i9msvVMds+5+dghoDfTwgvuJvo17P9IYrJXfKyjyo9Xxw3m+VeaYuLCg==" />
+    </item>
+
+    <item>
       <title>Version 1.1.6</title>
       <pubDate>Mon, 29 Jun 2026 16:30:59 +0000</pubDate>
       <sparkle:version>23</sparkle:version>
