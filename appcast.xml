@@ -7,6 +7,20 @@
     <language>en</language>
 
     <item>
+      <title>Version 1.1.15</title>
+      <pubDate>Mon, 29 Jun 2026 19:03:47 +0000</pubDate>
+      <sparkle:version>32</sparkle:version>
+      <sparkle:shortVersionString>1.1.15</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>AI digests now render properly: headings, lists, and paragraphs show as formatted text instead of one run-on block, in a comfortable reading column. The digests list gets shimmer loading too.</p>]]></description>
+      <enclosure
+        url="https://github.com/d1m1tr1/newspipe-releases/releases/download/v1.1.15/NewsPipe-1.1.15.zip"
+        length="7441241"
+        type="application/octet-stream"
+        sparkle:edSignature="DrW5ikYcSQ4EZ+AzW4o3SMAQyEEcQW8/eDDvcVNdxjmuGWoZaGX1NmW+IZfVJEQFCmuF1Lhb7dPQqZiz7AJGDQ==" />
+    </item>
+
+    <item>
       <title>Version 1.1.14</title>
       <pubDate>Mon, 29 Jun 2026 18:49:05 +0000</pubDate>
       <sparkle:version>31</sparkle:version>
