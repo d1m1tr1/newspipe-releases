@@ -7,6 +7,20 @@
     <language>en</language>
 
     <item>
+      <title>Version 1.1.13</title>
+      <pubDate>Mon, 29 Jun 2026 18:21:21 +0000</pubDate>
+      <sparkle:version>30</sparkle:version>
+      <sparkle:shortVersionString>1.1.13</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Fixes a crash on the SEO page (the new peak-hours chart), restores click-to-open in the Articles list (a single click opens the article again), and resolves the SEO tab/filter clicks that were tied to the crash.</p>]]></description>
+      <enclosure
+        url="https://github.com/d1m1tr1/newspipe-releases/releases/download/v1.1.13/NewsPipe-1.1.13.zip"
+        length="7391457"
+        type="application/octet-stream"
+        sparkle:edSignature="b6AHY/MCnt58kendwY1zRPoFBoIitp9aZSwB2Q2FwhVHBjBlH1hP1W4Hodh0Vw3GMZcu0/cUw0XluhuOyb+VDQ==" />
+    </item>
+
+    <item>
       <title>Version 1.1.12</title>
       <pubDate>Mon, 29 Jun 2026 18:01:44 +0000</pubDate>
       <sparkle:version>29</sparkle:version>
