@@ -7,6 +7,20 @@
     <language>en</language>
 
     <item>
+      <title>Version 1.1.10</title>
+      <pubDate>Mon, 29 Jun 2026 17:38:29 +0000</pubDate>
+      <sparkle:version>27</sparkle:version>
+      <sparkle:shortVersionString>1.1.10</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Prompt version history now shows a real diff: open any past version and a Diff/Raw toggle highlights exactly what changed vs. the current prompt — added/removed lines with a +/- gutter. Restoring an old version now asks for confirmation first, and the editor stops autocorrect from mangling prompts.</p>]]></description>
+      <enclosure
+        url="https://github.com/d1m1tr1/newspipe-releases/releases/download/v1.1.10/NewsPipe-1.1.10.zip"
+        length="7409552"
+        type="application/octet-stream"
+        sparkle:edSignature="xsRQXnu8yz8UpHdsG7+yH5h70MVkSf++wYfYeykE2kgqXQ89BRfBO9Tjij3NQAO1ym7oIG50AVL/67bfdT6kAA==" />
+    </item>
+
+    <item>
       <title>Version 1.1.9</title>
       <pubDate>Mon, 29 Jun 2026 17:22:30 +0000</pubDate>
       <sparkle:version>26</sparkle:version>
