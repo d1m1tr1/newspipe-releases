@@ -7,6 +7,20 @@
     <language>en</language>
 
     <item>
+      <title>Version 1.1.12</title>
+      <pubDate>Mon, 29 Jun 2026 18:01:44 +0000</pubDate>
+      <sparkle:version>29</sparkle:version>
+      <sparkle:shortVersionString>1.1.12</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>The SEO peak-hours heatmap is now a native chart with proper axes, a smooth color scale, and hover/tap to read any hour's exact traffic. Prompt editing no longer auto-converts straight quotes and dashes into curly ones, so prompts stay exactly as you type them.</p>]]></description>
+      <enclosure
+        url="https://github.com/d1m1tr1/newspipe-releases/releases/download/v1.1.12/NewsPipe-1.1.12.zip"
+        length="7421570"
+        type="application/octet-stream"
+        sparkle:edSignature="kWtWxRV0MOx10qyO9Aw7AOX8mDC2OSrawwwbUAXmAuvP9WtEQ/ydGUdpSRCP50hddIThsOnzOZAF+4s+QTJaDQ==" />
+    </item>
+
+    <item>
       <title>Version 1.1.11</title>
       <pubDate>Mon, 29 Jun 2026 17:49:14 +0000</pubDate>
       <sparkle:version>28</sparkle:version>
