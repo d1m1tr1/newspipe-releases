@@ -7,6 +7,20 @@
     <language>en</language>
 
     <item>
+      <title>Version 1.1.9</title>
+      <pubDate>Mon, 29 Jun 2026 17:22:30 +0000</pubDate>
+      <sparkle:version>26</sparkle:version>
+      <sparkle:shortVersionString>1.1.9</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Audit log gets real triage tools: filter by severity (with live error/warning counts), search across every field, and tap any event to expand its full message and pretty-printed metadata with copy. Faster to find what broke.</p>]]></description>
+      <enclosure
+        url="https://github.com/d1m1tr1/newspipe-releases/releases/download/v1.1.9/NewsPipe-1.1.9.zip"
+        length="7318604"
+        type="application/octet-stream"
+        sparkle:edSignature="NIE4bgWOXnDajy04PI/T4OczVkykQMg3bIdOjL5SQf1A7d4gegv5vxtZNwajzQWThHM8waLZJ8z9R2OXqMXQAw==" />
+    </item>
+
+    <item>
       <title>Version 1.1.8</title>
       <pubDate>Mon, 29 Jun 2026 17:12:05 +0000</pubDate>
       <sparkle:version>25</sparkle:version>
