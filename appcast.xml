@@ -7,6 +7,20 @@
     <language>en</language>
 
     <item>
+      <title>Version 1.2.12</title>
+      <pubDate>Tue, 30 Jun 2026 20:22:03 +0000</pubDate>
+      <sparkle:version>50</sparkle:version>
+      <sparkle:shortVersionString>1.2.12</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Sidebar: clicking a menu item now always returns to that section's root page — including re-clicking the current section while viewing an article (it pops back to the list).</p>]]></description>
+      <enclosure
+        url="https://github.com/d1m1tr1/newspipe-releases/releases/download/v1.2.12/NewsPipe-1.2.12.zip"
+        length="7678993"
+        type="application/octet-stream"
+        sparkle:edSignature="43B4iYTS9IBAeNrca6w1SyVCbMVn8l9H8nDyAHWeRcN2t+Vr7Ry3wRDqXmj3Bvl6DEAnBoMmw9HeCQamA2oYDg==" />
+    </item>
+
+    <item>
       <title>Version 1.2.11</title>
       <pubDate>Tue, 30 Jun 2026 20:09:46 +0000</pubDate>
       <sparkle:version>49</sparkle:version>
