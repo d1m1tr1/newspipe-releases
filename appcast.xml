@@ -7,6 +7,20 @@
     <language>en</language>
 
     <item>
+      <title>Version 1.2.10</title>
+      <pubDate>Tue, 30 Jun 2026 19:55:46 +0000</pubDate>
+      <sparkle:version>48</sparkle:version>
+      <sparkle:shortVersionString>1.2.10</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Article reading view: removes the empty gap below the body (the body web view now reports its true height after layout settles), and the featured image now fills the sidebar width like the other panels.</p>]]></description>
+      <enclosure
+        url="https://github.com/d1m1tr1/newspipe-releases/releases/download/v1.2.10/NewsPipe-1.2.10.zip"
+        length="7661035"
+        type="application/octet-stream"
+        sparkle:edSignature="aqvik1ENx7NxEhok6PSU/9b2Mop2K2lvI5kf7waZttBOXtLe1iBbJwAT1YABKl/c/CO1m7vd1+nnmSSkv/dMBw==" />
+    </item>
+
+    <item>
       <title>Version 1.2.9</title>
       <pubDate>Tue, 30 Jun 2026 19:49:22 +0000</pubDate>
       <sparkle:version>47</sparkle:version>
