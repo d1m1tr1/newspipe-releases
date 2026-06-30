@@ -7,6 +7,20 @@
     <language>en</language>
 
     <item>
+      <title>Version 1.2.17</title>
+      <pubDate>Tue, 30 Jun 2026 21:13:42 +0000</pubDate>
+      <sparkle:version>55</sparkle:version>
+      <sparkle:shortVersionString>1.2.17</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Fixes the article body going blank for good: the two-column layout no longer builds the body web view twice. It used ViewThatFits, which instantiates every candidate to measure it — creating a second hidden web view and churning it until the system killed the render process. A custom layout now builds the web view once and just repositions it.</p>]]></description>
+      <enclosure
+        url="https://github.com/d1m1tr1/newspipe-releases/releases/download/v1.2.17/NewsPipe-1.2.17.zip"
+        length="7710411"
+        type="application/octet-stream"
+        sparkle:edSignature="OoHflqwWndUiGtyksDdq+9gjymt7Cu40sdoc8xsPyCXe21qy3k9r8mkbnE6KNQWOYPN8tJ6995dr+z3AjpG1DA==" />
+    </item>
+
+    <item>
       <title>Version 1.2.16</title>
       <pubDate>Tue, 30 Jun 2026 21:02:25 +0000</pubDate>
       <sparkle:version>54</sparkle:version>
