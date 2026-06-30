@@ -7,6 +7,20 @@
     <language>en</language>
 
     <item>
+      <title>Version 1.2.2</title>
+      <pubDate>Tue, 30 Jun 2026 18:22:02 +0000</pubDate>
+      <sparkle:version>40</sparkle:version>
+      <sparkle:shortVersionString>1.2.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Opening or switching to the Articles page no longer resizes your window — the content now fits whatever window size you've chosen instead of forcing it wider.</p>]]></description>
+      <enclosure
+        url="https://github.com/d1m1tr1/newspipe-releases/releases/download/v1.2.2/NewsPipe-1.2.2.zip"
+        length="7647803"
+        type="application/octet-stream"
+        sparkle:edSignature="55r/p1ee7KGU8o8qeN+XXs+K7ZlDWKU6eZ+A9ue9MRIpWbATSaUBjvy6qzpzS3HcNwuB8h3IQ89OadlNta2/Aw==" />
+    </item>
+
+    <item>
       <title>Version 1.2.1</title>
       <pubDate>Tue, 30 Jun 2026 17:41:39 +0000</pubDate>
       <sparkle:version>39</sparkle:version>
