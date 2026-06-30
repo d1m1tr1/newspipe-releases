@@ -7,6 +7,20 @@
     <language>en</language>
 
     <item>
+      <title>Version 1.2.0</title>
+      <pubDate>Tue, 30 Jun 2026 17:23:11 +0000</pubDate>
+      <sparkle:version>38</sparkle:version>
+      <sparkle:shortVersionString>1.2.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>New: press ⌘K anywhere to search every article across all statuses — type to see live results, ↑↓ to move, ↩ to open. The Articles tab's old in-list search is replaced by this global palette.</p>]]></description>
+      <enclosure
+        url="https://github.com/d1m1tr1/newspipe-releases/releases/download/v1.2.0/NewsPipe-1.2.0.zip"
+        length="7597197"
+        type="application/octet-stream"
+        sparkle:edSignature="WqRB11OVW6IGf209HpH0ptLoHVpok0h2TVfGvQj4FTx9fzvKDGoKKwBsWrpM4hJJ9D+QxZiyRuw4/RKsl0OfDQ==" />
+    </item>
+
+    <item>
       <title>Version 1.1.19</title>
       <pubDate>Tue, 30 Jun 2026 16:44:51 +0000</pubDate>
       <sparkle:version>36</sparkle:version>
