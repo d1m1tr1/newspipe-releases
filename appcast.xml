@@ -7,6 +7,20 @@
     <language>en</language>
 
     <item>
+      <title>Version 1.2.8</title>
+      <pubDate>Tue, 30 Jun 2026 19:37:58 +0000</pubDate>
+      <sparkle:version>46</sparkle:version>
+      <sparkle:shortVersionString>1.2.8</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Clicking 'Original: #N' now opens the original article in the same window (with a back button), instead of a new one.</p>]]></description>
+      <enclosure
+        url="https://github.com/d1m1tr1/newspipe-releases/releases/download/v1.2.8/NewsPipe-1.2.8.zip"
+        length="7660151"
+        type="application/octet-stream"
+        sparkle:edSignature="ANrTlqLEP3C5ZVuQCV8O4zQPbpkJ1hJDBd8DVHQQscJvIpqxtomXd6RbYCqWZwjv/VECyx4MC0xNwkOfHbwQDg==" />
+    </item>
+
+    <item>
       <title>Version 1.2.7</title>
       <pubDate>Tue, 30 Jun 2026 19:35:03 +0000</pubDate>
       <sparkle:version>45</sparkle:version>
