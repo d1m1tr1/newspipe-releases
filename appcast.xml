@@ -7,6 +7,20 @@
     <language>en</language>
 
     <item>
+      <title>Version 1.2.16</title>
+      <pubDate>Tue, 30 Jun 2026 21:02:25 +0000</pubDate>
+      <sparkle:version>54</sparkle:version>
+      <sparkle:shortVersionString>1.2.16</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Article body no longer goes blank: if the system kills the body web view's render process, the view now rebuilds itself automatically (the same recovery as switching tabs and back), instead of leaving an empty area with a Reload button.</p>]]></description>
+      <enclosure
+        url="https://github.com/d1m1tr1/newspipe-releases/releases/download/v1.2.16/NewsPipe-1.2.16.zip"
+        length="7717478"
+        type="application/octet-stream"
+        sparkle:edSignature="64ORaYyo9+LEhByrz/RJ4EFntgLvkOiQPb2NIXprm4J8cj1eSumO4LBeWOlU6jEGrpvX5WXG+wbRjA7iechoDQ==" />
+    </item>
+
+    <item>
       <title>Version 1.2.15</title>
       <pubDate>Tue, 30 Jun 2026 20:54:22 +0000</pubDate>
       <sparkle:version>53</sparkle:version>
