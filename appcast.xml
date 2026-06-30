@@ -7,6 +7,20 @@
     <language>en</language>
 
     <item>
+      <title>Version 1.2.6</title>
+      <pubDate>Tue, 30 Jun 2026 19:29:11 +0000</pubDate>
+      <sparkle:version>44</sparkle:version>
+      <sparkle:shortVersionString>1.2.6</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>The top-5 'to publish now' cards are back above the pending list — now they open on click and have the same right-click menu (approve, deny, open, copy) as the list rows. They scroll with the list, so the window still won't resize.</p>]]></description>
+      <enclosure
+        url="https://github.com/d1m1tr1/newspipe-releases/releases/download/v1.2.6/NewsPipe-1.2.6.zip"
+        length="7658161"
+        type="application/octet-stream"
+        sparkle:edSignature="CEcPeeDzUnkCRIMgXEHXyvKjrIa3WcaLPPUuzpsgqFvvAkVhaaESrdZnm17/pplHLmhzyB9IxrSxYlYPeI/iBg==" />
+    </item>
+
+    <item>
       <title>Version 1.2.5</title>
       <pubDate>Tue, 30 Jun 2026 19:14:23 +0000</pubDate>
       <sparkle:version>43</sparkle:version>
