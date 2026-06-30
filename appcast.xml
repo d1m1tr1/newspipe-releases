@@ -7,6 +7,20 @@
     <language>en</language>
 
     <item>
+      <title>Version 1.2.4</title>
+      <pubDate>Tue, 30 Jun 2026 19:05:14 +0000</pubDate>
+      <sparkle:version>42</sparkle:version>
+      <sparkle:shortVersionString>1.2.4</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>⌘K now works reliably from anywhere in the app, and the window no longer auto-resizes (vertically or horizontally) when you open or switch to Articles.</p>]]></description>
+      <enclosure
+        url="https://github.com/d1m1tr1/newspipe-releases/releases/download/v1.2.4/NewsPipe-1.2.4.zip"
+        length="7648103"
+        type="application/octet-stream"
+        sparkle:edSignature="9uLlVAvj63AFYq0BAzQyaK2LD4jneECsob50HJOzGRr3MBQffXEn5tl962scmyuqJmDmnt4hdIIwjGmtLM2ZBQ==" />
+    </item>
+
+    <item>
       <title>Version 1.2.3</title>
       <pubDate>Tue, 30 Jun 2026 18:26:03 +0000</pubDate>
       <sparkle:version>41</sparkle:version>
