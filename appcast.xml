@@ -7,6 +7,20 @@
     <language>en</language>
 
     <item>
+      <title>Version 1.2.7</title>
+      <pubDate>Tue, 30 Jun 2026 19:35:03 +0000</pubDate>
+      <sparkle:version>45</sparkle:version>
+      <sparkle:shortVersionString>1.2.7</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Clicking 'Original: #N' on a duplicate-flagged article now reliably opens that original article (in its own window so you can compare).</p>]]></description>
+      <enclosure
+        url="https://github.com/d1m1tr1/newspipe-releases/releases/download/v1.2.7/NewsPipe-1.2.7.zip"
+        length="7659712"
+        type="application/octet-stream"
+        sparkle:edSignature="cNdQ6WP/7tgvYoWmZh2IAyJszA8TsZBQa4jdddyWgSVNV/PWYb+iWpw29BdHCDZWHkKHw8T7hxYr18zceU2hBA==" />
+    </item>
+
+    <item>
       <title>Version 1.2.6</title>
       <pubDate>Tue, 30 Jun 2026 19:29:11 +0000</pubDate>
       <sparkle:version>44</sparkle:version>
