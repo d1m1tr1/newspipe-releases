@@ -7,6 +7,20 @@
     <language>en</language>
 
     <item>
+      <title>Version 1.2.19</title>
+      <pubDate>Tue, 30 Jun 2026 21:23:54 +0000</pubDate>
+      <sparkle:version>57</sparkle:version>
+      <sparkle:shortVersionString>1.2.19</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Fixes the article body going blank when you right-click and choose Reload. The body is rendered from an HTML string with no web address, so WebKit's Reload loaded a blank page. Reload/Back/Forward are now removed from the body's right-click menu (Copy, Look Up and Open Link remain); the article refreshes through the app.</p>]]></description>
+      <enclosure
+        url="https://github.com/d1m1tr1/newspipe-releases/releases/download/v1.2.19/NewsPipe-1.2.19.zip"
+        length="7718338"
+        type="application/octet-stream"
+        sparkle:edSignature="8qTdnc/IbANJO5FwTJSCpCibzAgeReU2LSv3ro4LhSZMXvLvAdPL9EIawr2Njx6y7TkDXhgs6/arHdA27NpRBA==" />
+    </item>
+
+    <item>
       <title>Version 1.2.18</title>
       <pubDate>Tue, 30 Jun 2026 21:19:29 +0000</pubDate>
       <sparkle:version>56</sparkle:version>
